@@ -1,0 +1,671 @@
+    1  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    2  sudo dpkg -i google-chrome-stable_current_amd64.deb
+    3  lsof /var/lib/dpkg/lock-frontend
+    4  sudo dpkg -i google-chrome-stable_current_amd64.deb
+    5  sudo apt install ./google-chrome-stable_current_amd64.deb
+    6  chrome
+    7  sudo apt install chrome
+    8  sudo dpkg -i google-chrome-stable_current_amd64.deb
+    9  sudo apt-get install -f
+   10  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   11  sudo apt-get update
+   12  sudo apt-get install vim-gtk3
+   13  history
+   14  ls
+   15  gvim hero
+   16  ls
+   17  rm google-chrome-stable_current_amd64.deb
+   18  ls
+   19  sbt compile
+   20  export PATH=$PATH:/home/rangeeli/Downloads/jdk-18_linux-aarch64_bin/jdk-18/bin
+   21  sbt compile
+   22  clear
+   23  sbt compile
+   24  export PATH=$PATH:/home/rangeeli/Downloads/jre-8u321-linux-x64/jre1.8.0_321/bin
+   25  sbt compile
+   26  export PATH=$PATH:/home/rangeeli/Downloads/jdk-18_linux-aarch64_bin/jdk-18/bin/java
+   27  sbt compile
+   28  pwd
+   29  ls
+   30  cd ../
+   31  ls
+   32  pwd
+   33  cd ../
+   34  ls
+   35  cd ../
+   36  ls
+   37  mkdir Tutorials
+   38  mkdir tutorials
+   39  rm Tutorials/
+   40  ls
+   41  cd tutorials/
+   42  ls
+   43  pwd
+   44  cd ../
+   45  ls
+   46  rm Tutorials/
+   47  ls
+   48  pwd 
+   49  rm Tutorials/ -rf
+   50  ls
+   51  pwd
+   52  cd tutorials/
+   53  ls
+   54  pwd
+   55  ls
+   56  mkdir chisel3_version1
+   57  ls
+   58  cd chisel3_version1/
+   59  ls
+   60  pwd
+   61  ls
+   62  pwd
+   63  vi commands.sh
+   64  ls
+   65  sh commands.sh 
+   66  vi commands.sh 
+   67  sbt test
+   68  ls
+   69  cd chisel3/
+   70  ls
+   71  sbt test
+   72  pwd
+   73  ls
+   74  cd ../
+   75  ls
+   76  vi commands.sh
+   77  sh commands.sh
+   78  sh commands.sh 
+   79  vi commands.sh 
+   80  sh commands.sh 
+   81  ls
+   82  rm -rf chisel-tutorial/
+   83  ls
+   84  tutorial_version1
+   85  mkdir tutorial_version1
+   86  ls
+   87  mv commands.sh tutorial_version1/
+   88  ls
+   89  cd tutorial_version1/
+   90  sh commands.sh 
+   91  ls
+   92  cd chisel-tutorial/
+   93  ls
+   94  cd ..
+   95  ls
+   96  pwd
+   97  cd chisel-tutorial/
+   98  ls
+   99  sbt run
+  100  sbt
+  101  ./run-solution.sh all
+  102  ls
+  103  pwd
+  104  vi run-solution.sh 
+  105  ls
+  106  cd src/main/
+  107  ls
+  108  cd scala/
+  109  ls
+  110  clear
+  111  ls
+  112  vi hello/Hello.scala 
+  113  ls
+  114  pwd
+  115  cd ../
+  116  ls
+  117  cd ../
+  118  ls
+  119  cd test/
+  120  ls
+  121  cd scala/
+  122  ls
+  123  cd ../../../
+  124  ls
+  125  vi ~/.bashrc 
+  126  resource
+  127  source ~/.bashrc 
+  128  ls
+  129  b1
+  130  pwd
+  131  ls
+  132  cd chisel-tutorial/
+  133  ls
+  134  cd project/
+  135  ls
+  136  cd target/
+  137  ls
+  138  cd config-classes/
+  139  ls
+  140  pwd
+  141  b1
+  142  ls
+  143  b2
+  144  ls
+  145  cd src/
+  146  ls
+  147  pwd
+  148  clear
+  149  ls
+  150  cd main/scala/
+  151  ls
+  152  cd problems/
+  153  ls
+  154  vi Adder.scala 
+  155  ls
+  156  pwd
+  157  cd ../solutions/
+  158  ls
+  159  vi Adder.scala 
+  160  b1
+  161  ls
+  162  cd examples/
+  163  ls
+  164  vi Adder
+  165  vi Adder.scala 
+  166  ls
+  167  cd ../../
+  168  ls
+  169  pwd
+  170  cd ../../
+  171  ls
+  172  pwd
+  173  ls
+  174  sbt run
+  175  ls
+  176  vi build.sbt 
+  177  sbt run
+  178  b3
+  179  ls
+  180  cd main/
+  181  ls
+  182  cd scala/
+  183  ls
+  184  b3
+  185  ls
+  186  ls *.v
+  187  ls
+  188  sbt run
+  189  ls
+  190  find . -name *.v
+  191  vi ./test_run_dir/solutions/Adder/Adder.v
+  192  ls
+  193  cd Documents/
+  194  ls
+  195  cd InterconnectNetworks/
+  196  ls
+  197  cd Projects/
+  198  ls
+  199  cd ringRouter/
+  200  ls
+  201  cd chisel3/
+  202  ls
+  203  sbt test
+  204  ls
+  205  cd core/src/main/scala/chisel3/internal/firrtl/
+  206  ls
+  207  cd -
+  208  ls
+  209  pwd
+  210  cd generated/
+  211  ls
+  212  vi PlusOne.v 
+  213  pwd
+  214  ls
+  215  cd ../
+  216  ls
+  217  find . -name firrtl
+  218  vi ./core/src/main/scala/chisel3/internal/firrtl/IR.scala 
+  219  ls
+  220  find . -name *.v
+  221  find . -name .v
+  222  find . -name v
+  223  find . -name *.v
+  224  find -help
+  225  find -name -help
+  226  find . -name ".v"
+  227  find . -name .v
+  228  ls
+  229  pwd
+  230  ls
+  231  vi build.sbt 
+  232  ls
+  233  sbt run
+  234  ls
+  235  find . -name rtl
+  236  find . -name firrtl
+  237  cd ./core/src/main/scala/chisel3/internal/firrtl/
+  238  ls
+  239  cd -
+  240  find . -name *rtl
+  241  cd ./target/scala-2.12/classes/chisel3/internal/firrtl
+  242  ls
+  243  cd -
+  244  ls
+  245  ls *.v*
+  246  vi SelectTester.
+  247  vi SelectTester.v
+  248  pwd
+  249  spwd
+  250  cd ../../
+  251  ls
+  252  cd ../
+  253  lks
+  254  ls
+  255  cd tutorials/chisel3_version1/
+  256  ls
+  257  find . -name *.v
+  258  :q
+  259  cd chisel3/
+  260  ls
+  261  find . -name *.v
+  262  find . -name *.v -r
+  263  find . -name *.v
+  264  cd test_run_dir/
+  265  ls
+  266  find . -name *.v
+  267  :q
+  268  b3
+  269  source
+  270  source ~/.bashrc 
+  271  vi ~/.bashrc 
+  272  source ~/.bashrc 
+  273  src
+  274  b3
+  275  ls
+  276  find . -name *.v
+  277  vi ./chisel3_version1/chisel3/test_run_dir/AnalogSpec_Anon/202204141032152474125378522275736/AnalogBlackBox.v
+  278  b3
+  279  cd Projects/ringRouter/chisel3/
+  280  grep ChiselState *
+  281  grep ChiselState * -r
+  282  ls
+  283  b3
+  284  ls
+  285  cd src/main/scala/
+  286  ls
+  287  which chisel
+  288  ls
+  289  b2
+  290  ls
+  291  b1
+  292  ls
+  293  grep version * -r
+  294  ls
+  295  pwd
+  296  clear
+  297  ls
+  298  grep ChiselStage * -r
+  299  grep emitVerilog * -r
+  300  /run-examples.sh all
+  301  ls
+  302  ./run-examples.sh all
+  303  ls
+  304  cd ../
+  305  pwd
+  306  df -h .
+  307  b1
+  308  ls
+  309  mkdir chisel_template_1
+  310  rm -rf chisel_template_1 
+  311  mkdir chisel_template1
+  312  cd chisel_template1
+  313  ls
+  314  pwd
+  315  clear
+  316  pip3 install --upgrade pip
+  317  b1
+  318  ls
+  319  mkdir chisel_bootcamp1
+  320  cd chisel_bootcamp1 
+  321  ls
+  322  clear
+  323  which java
+  324  vi /usr/bin/java
+  325  docker run -it --rm -p 8888:8888 ucbbar/chisel-bootcamp
+  326  pip3 install --upgrade pip
+  327  sudo apt install python3-pip
+  328  pip3 install jupyter --ignore-installed
+  329  pip3 install jupyterlab
+  330  vi commands.sh
+  331  sh commands.sh 
+  332  jupyter notebook
+  333  jupyter-lab notebook
+  334  which jupyter
+  335  which jupyter--lab
+  336  vi commands.sh 
+  337  pip3 install jupyterlab
+  338  jupyterlab notebook
+  339  juypter install
+  340  install jupyter
+  341  install jupyterlab
+  342  which pip3
+  343  pip3 install jupyter
+  344  ls
+  345  cd chisel-bootcamp/
+  346  ls
+  347  jupyter notebook
+  348  df -h .
+  349  docker run -it --rm -p 8888:8888 ucbbar/chisel-bootcamp
+  350  sudo snap install docker
+  351  ls
+  352  cd ../
+  353  ls
+  354  cd -
+  355  pip3 install --upgrade pip
+  356  pip3 install jupyter --ignore-installed
+  357  pip3 install jupyter 
+  358  jupyter notebook
+  359  sudo apt  install jupyter-core
+  360  jupyter notebook
+  361  pip install jupyterlab
+  362  jupyter-lab
+  363  pip install notebook
+  364  jupyter notebook
+  365  cd /home/rangeeli/
+  366  ls
+  367  cd /usr/bin/
+  368  ls
+  369  c d-
+  370  cd -
+  371  pwd
+  372  cd Documents/InterconnectNetworks/
+  373  ls
+  374  cd tutorials/
+  375  cd chisel_bootcamp1/chisel-bootcamp/
+  376  ls
+  377  sudo apt-get update
+  378  sudo apt-get install python3
+  379  sudo apt autoremove
+  380  jupyter notebook
+  381  install chrome
+  382  install google-chrome
+  383  sudo apt update
+  384  apt list --upgradable
+  385  $ sudo apt install wget
+  386  sudo apt install wget
+  387  $ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  388  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  389  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  390  ls
+  391  pwd
+  392  cd ../
+  393  ls
+  394  git config –global user.name “vatsanshuman"
+  395  git config –-global user.name “vatsanshuman"
+  396  ansh@12345P
+  397  ls
+  398  b1
+  399  mkdir ChiselBootcamp
+  400  cd ChiselBootcamp 
+  401  git init
+  402  git remote add origin  https://github.com/anshuman/ChiselBootcamp.git
+  403  git clone https://github.com/freechipsproject/chisel-bootcamp.git
+  404  ls
+  405  cd chisel-bootcamp/
+  406  ls
+  407  cd ../
+  408  git commit -m 'first commit chisel bootcamp'
+  409  git config --global user.email "anshuman23307@gmail.com"
+  410  git config --global user.name "vatsanshuman"
+  411  git commit -m 'first commit chisel bootcamp'
+  412  git add ...
+  413  git add *
+  414  git ls
+  415  ls
+  416  git commit -m 'first commit chisel bootcamp'
+  417  ls
+  418  git add chisel-bootcamp/
+  419  git commit -m 'first commit chisel bootcamp'
+  420  git inof
+  421  git info
+  422  git push origin master
+  423  git config --global user.name "vatsanshuman"
+  424  git config --global user.email "anshuman23307@gmail.com"
+  425  git config -l
+  426  git clone https://github.com/vatsanshuman/ChiselBootcamp/
+  427  ls
+  428  git config --global credential.helper cache
+  429  git pull -v
+  430  git clone https://github.com/vatsanshuman/ChiselBootcamp/
+  431  ls
+  432  cd ../
+  433  ls
+  434  cd -\
+  435  cd -
+  436  ls
+  437  git clone https://<tokenhere>@github.com/<user>/<repo>.git
+  438  git pull -v
+  439  ls
+  440  mv chisel-bootcamp/ ChiselBootcamp/.
+  441  ls
+  442  git clone https://github.com/Vatsanshuman/ChiselBootcamp/
+  443  git -l
+  444  history | grep config
+  445  git config --global user.name "Vatsanshuman"
+  446  git config --global user.email "anshuman23307@gmail.com"
+  447  git init
+  448  git remote add origin  https://github.com/Vatsanshuman/ChiselBootcamp.git
+  449  git remote add origin -f https://github.com/Vatsanshuman/ChiselBootcamp.git
+  450  rgit remote remove origin
+  451  git remote remove origin
+  452  git remote add origin -f https://github.com/Vatsanshuman/ChiselBootcamp.git
+  453  git init
+  454  git remote add origin -f https://github.com/Vatsanshuman/ChiselBootcamp.git
+  455  ls
+  456  git add ChiselBootcamp/
+  457  git commit -m ‘first version github’
+  458  git commit -m ‘first submission github’
+  459  git commit -m ‘first_submission_github’
+  460  git push origin master
+  461  ls
+  462  pwd
+  463  ls
+  464  rm ChiselBootcamp/
+  465  ls 
+  466  rm ChiselBootcamp/ -rf
+  467  ls
+  468  gh repo clone freechipsproject/chisel-bootcamp
+  469  sudo snap install gh
+  470  gh repo clone freechipsproject/chisel-bootcamp
+  471  ls
+  472  gh auth login
+  473  gh repo clone freechipsproject/chisel-bootcamp
+  474  ls
+  475  git clone https://github.com/freechipsproject/chisel-bootcamp.git
+  476  ls
+  477  git add chisel-bootcamp/*
+  478  git add chisel-bootcamp/
+  479  ls
+  480  git -help
+  481  mkdir ChiselBootcamp
+  482  git init
+  483  ls
+  484  cd ChiselBootcamp/
+  485  git init
+  486  ls
+  487  cd ../
+  488  ls
+  489  cd ../
+  490  ls
+  491  cd ChiselBootcamp/
+  492  ls
+  493  rm ChiselBootcamp/
+  494  ls
+  495  rm ChiselBootcamp/ -rf
+  496  ls
+  497  git add chisel-bootcamp/
+  498  ls
+  499  git -l
+  500  git -diff cached
+  501  git diff --cache
+  502  git diff --cached
+  503  ls
+  504  git add -r chisel-bootcamp/
+  505  ls
+  506  cd chisel-bootcamp/
+  507  ls
+  508  git add *
+  509  ls
+  510  git diff --cached
+  511  cd ../
+  512  ls
+  513  cd ..
+  514  ls
+  515  cd -
+  516  ls
+  517  git init
+  518  git add README.md
+  519  git commit -m "first commit"
+  520  git add chisel-bootcamp/*
+  521  git rm --cached chisel-bootcamp/
+  522  ls
+  523  git add chisel-bootcamp/
+  524  git help submodule
+  525  apt-get install zip
+  526  sudo apt-get install zip
+  527  sudo apt-get install unzip
+  528  pwd
+  529  ls
+  530  cd ChiselBootcamp_version1/
+  531  lls
+  532  ls
+  533  cd ChiselBootcamp/
+  534  ls
+  535  cd ../
+  536  ls
+  537  git add ChiselBootcamp/*
+  538  ls
+  539  cd ChiselBootcamp/
+  540  ls
+  541  cd ../
+  542  git init 
+  543  git commit -m "first version"
+  544  git remote add origin https://github.com/Vatsanshuman/ChiselBootcamp.git
+  545  git remote rm origin
+  546  git remote add origin https://github.com/Vatsanshuman/ChiselBootcamp.git
+  547  git push -u origin master
+  548  git pull -v
+  549  ls
+  550  cd ChiselBootcamp/
+  551  ls
+  552  cd ../
+  553  ls
+  554  git diff --cached
+  555  ls
+  556  git add ChiselBootcamp/
+  557  git add ChiselBootcamp/*
+  558  git commit -m "first version"
+  559  git push -u origin master
+  560  ls
+  561  pwd
+  562  cd ../
+  563  ls
+  564  cd ../
+  565  ls
+  566  cp -r ChiselBootcamp/ChiselBootcamp_version1/ .
+  567  ls
+  568  rm -rf chisel_bootcamp1/
+  569  ls
+  570  cd ChiselBootcamp_version1
+  571  ls
+  572  git init
+  573  history | grep remove
+  574  git remote remove origin
+  575  ls
+  576  git init
+  577  git add README.md
+  578  git commit -m "first commit"
+  579  ls
+  580  git add ChiselBootcamp/*
+  581  git commit -m "first commit
+  582  git commit -m "first commit"
+  583  history | grep rm
+  584  git commit -m "first commit"
+  585  git rm *
+  586  git rm -r *
+  587  ls
+  588  pwd
+  589  ls
+  590  git add ChiselBootcamp
+  591  git commit -m "first version
+  592  git commit -m "first version"
+  593  ls
+  594  git remote add origin https://github.com/Vatsanshuman/ChiselBootcamp_version1.git
+  595  git push -u origin master
+  596  git remote add origin https://github.com/Vatsanshuman/ChiselBootcamp_version1.git
+  597  history | remove
+  598  history| grep remove
+  599  git remote remove origin
+  600  git remote add origin https://github.com/Vatsanshuman/ChiselBootcamp_version1.git
+  601  git push -u origin master
+  602  ls
+  603  cd ChiselBootcamp/
+  604  ls
+  605  pwd
+  606  cd chisel-bootcamp-master/
+  607  ls
+  608  pwd
+  609  git push -u origin main
+  610  cd Documents/InterconnectNetworks/
+  611  ls
+  612  cd tutorials/
+  613  ls
+  614  pwd
+  615  cd tutorial_version1/
+  616  ls
+  617  cd chisel-tutorial/
+  618  ls
+  619  cd test_run_dir/solutions/Adder/
+  620  ls
+  621  vi Adder.fir 
+  622  vi Adder.v 
+  623  ls
+  624  b2
+  625  ls
+  626  mkdir chisel3_version3
+  627  cd chisel3_version3 
+  628  ls
+  629  vi README
+  630  vi README 
+  631  b1
+  632  ls
+  633  mv chisel3_version3/ chisel_template_version1
+  634  ls
+  635  cd chisel_template_version1/
+  636  ls
+  637  pwd
+  638  ls -al ~/.ssh
+  639  ssh-keygen -t ed25519 -C "anshuman23307@gmail.com"
+  640  ls -al ~/.ssh
+  641  ssh-keygen -t ed25519 -C "anshuman23307@gmail.com"
+  642  eval "$(ssh-agent -s)"
+  643  ssh-add ~/.ssh/id_ed25519
+  644  ls -al ~/.ssh
+  645  cat ~/.ssh/id_ed25519.pub
+  646  git clone git@github.com:Vatsanshuman/Chisel-Template-Version-2.git
+  647  ls
+  648  cd Chisel-Template-Version-2/
+  649  ls
+  650  vi build.sbt 
+  651  ls
+  652  vi README.md 
+  653  ls
+  654  cd ../
+  655  git status
+  656  cd -
+  657  ls
+  658  git status
+  659  vi README.md 
+  660  git commit -m 'Starting Chisel-Template-Version-2'
+  661  git push origin main
+  662  git add README.md 
+  663  git statuts
+  664  git status
+  665  git commit -m 'Starting Chisel-Template-Version-2'
+  666  git push origin main
+  667  ls
+  668  sbt test
+  669  git status
+  670  history
+  671  history > historyLogWithCommands
